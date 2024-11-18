@@ -35,8 +35,8 @@
         <module>bundles/core</module>
         <module>bundles/commons</module>
         <module>bundles/ssr</module>
-        <module>react-app</module>
-        <module>angular-app</module>
+        <!--<module>react-app</module> -->
+        <!--<module>angular-app</module> -->
         <module>ui.apps</module>
         <module>ui.content</module>
         <module>all</module>
